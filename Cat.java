@@ -9,4 +9,7 @@ class Cat{
 
 	private int age;
 
+	public void eat(){
+		System.out.println("吃🐭");
+	}
 }
